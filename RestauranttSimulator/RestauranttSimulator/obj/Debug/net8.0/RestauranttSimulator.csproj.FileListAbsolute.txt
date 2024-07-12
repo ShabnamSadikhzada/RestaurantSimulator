@@ -1,0 +1,14 @@
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\bin\Debug\net8.0\RestauranttSimulator.exe
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\bin\Debug\net8.0\RestauranttSimulator.deps.json
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\bin\Debug\net8.0\RestauranttSimulator.runtimeconfig.json
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\bin\Debug\net8.0\RestauranttSimulator.dll
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\bin\Debug\net8.0\RestauranttSimulator.pdb
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.AssemblyInfo.cs
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.dll
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\refint\RestauranttSimulator.dll
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.pdb
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.genruntimeconfig.cache
+C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\ref\RestauranttSimulator.dll
