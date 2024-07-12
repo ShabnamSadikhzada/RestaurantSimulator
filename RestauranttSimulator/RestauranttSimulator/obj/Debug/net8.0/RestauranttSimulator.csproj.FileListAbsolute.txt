@@ -12,3 +12,11 @@ C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\De
 C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.pdb
 C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.genruntimeconfig.cache
 C:\Users\shabnamjs\source\repos\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\ref\RestauranttSimulator.dll
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.AssemblyInfo.cs
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.sourcelink.json
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.dll
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\refint\RestauranttSimulator.dll
+C:\Users\shabnamjs\Desktop\RestaurantSimulator\RestauranttSimulator\RestauranttSimulator\obj\Debug\net8.0\RestauranttSimulator.pdb

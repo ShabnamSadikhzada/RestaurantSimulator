@@ -21,7 +21,7 @@ public class Dish
         List<Dish> newList = new List<Dish>();
         foreach (Dish dish in dishes)
         {
-            if(dish.Category == category)
+            if(dish.Category.Id == category.Id)
                 newList.Add(dish);
         }
 

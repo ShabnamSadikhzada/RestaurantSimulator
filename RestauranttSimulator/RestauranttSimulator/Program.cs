@@ -31,7 +31,6 @@ public class Program
         order.Dishes.Add(dish1);
         order.Dishes.Add(dish3);
         order.Dishes.Add(dish4);
-        order.TotalAmount = ExtensionMethods.Sum(order.Dishes);
 
         List<Dish> foundDishes = Dish.FindDishesByCategory(order.Dishes, category1);
         List<Dish> foundDishesByID = Dish.FindDishesByCategory(order.Dishes, category2.Id);

@@ -26,11 +26,14 @@ public class Restaurant
 
     public Order? FindOrder(int id)
     {
-        foreach (Order order in Orders)
-        {
-            if(order.Id == id) 
-                return order;
-        }
-        return null;
+        //foreach (Order order in Orders)
+        //{
+        //    if(order.Id == id) 
+        //        return order;
+        //}
+        //return null;
+
+        Order? order = Orders.Find(o => o.Id == id);
+        return order;
     }
 }
