@@ -1,8 +1,9 @@
-﻿namespace RestauranttSimulator.Models;
+﻿using RestauranttSimulator.Entities;
 
-public class Order
+namespace RestauranttSimulator.Entities;
+
+public class Order : BaseEntity
 {
-    public int Id { get; set; }
     public List<Dish> Dishes { get; set; }
     //public double TotalAmount { get { return Dishes.Sum(); } }
     public double TotalAmount => Dishes.Sum();

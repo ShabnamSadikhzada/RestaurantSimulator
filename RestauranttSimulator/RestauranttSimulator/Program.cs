@@ -1,4 +1,5 @@
-﻿using RestauranttSimulator.Models;
+﻿using RestauranttSimulator.Entities;
+using RestauranttSimulator.BusinessLogic;
 using System.Diagnostics;
 using System.Xml.Linq;
 
@@ -32,15 +33,16 @@ public class Program
         order.Dishes.Add(dish3);
         order.Dishes.Add(dish4);
 
-        List<Dish> foundDishes = Dish.FindDishesByCategory(order.Dishes, category1);
-        List<Dish> foundDishesByID = Dish.FindDishesByCategory(order.Dishes, category2.Id);
+        List<Dish> foundDishes = DishServices.FindDishesByCategory(order.Dishes, category1);
+        List<Dish> foundDishesByID = DishServices.FindDishesByCategory(order.Dishes, category2.Id);
 
         Restaurant restaurant = new Restaurant("restoran adi");
-        restaurant.AddDish(dish1);
-        restaurant.AddDish(dish2);
-        restaurant.AddDish(dish3);
-        restaurant.PlaceOrder(order);
-        Order? foundOrder = restaurant.FindOrder(order.Id);
+        RestaurantServices restaurantServices = new RestaurantServices();
+        restaurantServices.AddDish(restaurant.Menu, dish1);
+        restaurantServices.AddDish(restaurant.Menu, dish2);
+        restaurantServices.AddDish(restaurant.Menu, dish3);
+        restaurantServices.PlaceOrder(restaurant.Orders, order);
+        Order? foundOrder = restaurantServices.FindOrder(restaurant.Orders, order.Id);
 
         #region cw
         Console.WriteLine("Dishes:");

@@ -7,24 +7,36 @@
       "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\models\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\models\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\businesslogic\\dishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\businesslogic\\dishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\businesslogic\\restaurantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\businesslogic\\restaurantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|c:\\users\\shabnamjs\\desktop\\restaurantsimulator\\restauranttsimulator\\restauranttsimulator\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4D60-1319-4578-9E16-D1F0C6DE8196}|RestauranttSimulator\\RestauranttSimulator.csproj|solutionrelative:restauranttsimulator\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +56,7 @@
               "RelativeDocumentMoniker": "RestauranttSimulator\\Program.cs",
               "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Program.cs",
               "RelativeToolTip": "RestauranttSimulator\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA2AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAWwCcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T05:15:13.39Z",
               "IsPinned": true,
@@ -52,67 +64,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Restaurant.cs",
-              "RelativeDocumentMoniker": "RestauranttSimulator\\Models\\Restaurant.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Restaurant.cs",
-              "RelativeToolTip": "RestauranttSimulator\\Models\\Restaurant.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:52:21.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "RestauranttSimulator\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Order.cs",
-              "RelativeToolTip": "RestauranttSimulator\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Order.cs",
+              "RelativeToolTip": "RestauranttSimulator\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:52:20.775Z",
+              "WhenOpened": "2024-07-12T08:38:50.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "RestauranttSimulator\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Category.cs",
-              "RelativeToolTip": "RestauranttSimulator\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:52:19.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Dish.cs",
-              "RelativeDocumentMoniker": "RestauranttSimulator\\Models\\Dish.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\Dish.cs",
-              "RelativeToolTip": "RestauranttSimulator\\Models\\Dish.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBsAAAAXAAAA",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\Entities\\Dish.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Dish.cs",
+              "RelativeToolTip": "RestauranttSimulator\\Entities\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:20:51.367Z",
+              "WhenOpened": "2024-07-12T08:38:48.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "RestauranttSimulator\\Models\\ExtensionMethods.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Models\\ExtensionMethods.cs",
-              "RelativeToolTip": "RestauranttSimulator\\Models\\ExtensionMethods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Category.cs",
+              "RelativeToolTip": "RestauranttSimulator\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:43:11.433Z",
+              "WhenOpened": "2024-07-12T08:38:46.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantServices.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\BusinessLogic\\RestaurantServices.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\BusinessLogic\\RestaurantServices.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\BusinessLogic\\RestaurantServices.cs",
+              "RelativeToolTip": "RestauranttSimulator\\BusinessLogic\\RestaurantServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:33:22.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DishServices.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\BusinessLogic\\DishServices.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\BusinessLogic\\DishServices.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\BusinessLogic\\DishServices.cs",
+              "RelativeToolTip": "RestauranttSimulator\\BusinessLogic\\DishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:32:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\ExtensionMethods.cs",
+              "RelativeToolTip": "RestauranttSimulator\\ExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:26:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "RestauranttSimulator\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:24:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "RestauranttSimulator\\Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\RestaurantSimulator\\RestauranttSimulator\\RestauranttSimulator\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "RestauranttSimulator\\Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:52:21.532Z",
               "EditorCaption": ""
             }
           ]

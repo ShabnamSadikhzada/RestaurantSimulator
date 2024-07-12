@@ -1,27 +1,15 @@
-﻿using System.Security.Cryptography;
+﻿using RestauranttSimulator.Entities;
 
-namespace RestauranttSimulator.Models;
+namespace RestauranttSimulator.BusinessLogic;
 
-public class Dish
+public class DishServices
 {
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public double Price { get; set; }
-    public Category Category { get; set; }
-
-    public Dish(int id, string name, double price)
-    {
-        Id = id;
-        Name = name;
-        Price = price;        
-    }
-
     public static List<Dish> FindDishesByCategory(List<Dish> dishes, Category category)
     {
         List<Dish> newList = new List<Dish>();
         foreach (Dish dish in dishes)
         {
-            if(dish.Category.Id == category.Id)
+            if (dish.Category.Id == category.Id)
                 newList.Add(dish);
         }
 
